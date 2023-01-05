@@ -11,14 +11,12 @@
       -  Contract based projects for companies and brands
 
 - 🌱 Current Engagements **I am Involved in**
-  - I teach youths how to go from ground zero in programming (Html, Css, Js)
-  - Help community church build websites 
+  - Teach youths how to go from ground zero in programming (Html, Css, Js)
+  - Help community churches build websites 
 
-- 📫 How to reach me 
-  - send me a message on Linkedin at **Godfrey Okafor**
-
-- 📄 Know about my experiences 
-  - Click here to view my [<a href="https://my.indeed.com/p/godfreyo-45dfpk8">Resume</a>]
+- 📫 Contact Details 
+  - 🛬 Send me a message on Linkedin at [<a href="https://ng.linkedin.com/in/godfrey-okafor">**Godfrey Okafor**</a>]
+  - 📄 View my [<a href="https://my.indeed.com/p/godfreyo-45dfpk8">Resume</a>]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
