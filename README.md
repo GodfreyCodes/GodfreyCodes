@@ -4,13 +4,21 @@
 <img align="right" alt="Coding" width="400" src="https://tvline.com/wp-content/uploads/2018/06/kim-possible-movie-cast-wade.jpg">
 
 
-- 🔭 Software Development Projects **What Im currently working on**
+- 🔭 Software Development Projects **Im currently working on**
+  - Cross Platform Aplication (React, NodeJS, Azure)
+      -  Project carried out for my company Romera Enterprise
+  - Web Development Poject (Wordpress)
+      -  Contract based projects for companies and brands
 
-- 🌱 I’m currently learning **Things I am currently learning**
+- 🌱 Current Engagements **I am Involved in**
+  - I teach youths how to go from ground zero in programming (Html, Css, Js)
+  - Help community church build websites 
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me 
+  - send me a message on Linkedin at **Godfrey Okafor**
 
-- 📄 Know about my experiences [add resume link later](add resume link later)
+- 📄 Know about my experiences 
+  - Click here to view my [<a href="https://my.indeed.com/p/godfreyo-45dfpk8">Resume</a>]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
